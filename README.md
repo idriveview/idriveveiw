@@ -10,6 +10,9 @@
 
 🌐 [Официальный сайт поддержки IDriveView](https://idriveview.site)
 
+**Скачать релиз:**  
+[Скачать example.zip](https://github.com/username/repository/releases/download/v1.0.0/IDriveViewSetup.exe)
+
 ---
 
 ## 📹 Обзор программы
