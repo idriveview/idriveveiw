@@ -17,8 +17,8 @@
 - [Скачать IDriveViewSetup.rar](https://github.com/idriveview/idriveveiw/releases/download/untagged-0d7dfc90b83e4a2287d6/win-x64.rar)
 
 *Простая установка*
+- [Скачать IDriveViewSetup.exe](https://github.com/idriveview/idriveveiw/releases/download/untagged-aa55b32759eb572892c0/IDriveViewSetup.exe)
 - [Скачать IDriveViewSetup.rar](https://github.com/idriveview/idriveveiw/releases/download/untagged-0d7dfc90b83e4a2287d6/win-x64.rar)
-- [Скачать IDriveViewSetup.exe](https://github.com/idriveview/idriveveiw/releases/download/untagged-aa55b32759eb572892c0/IDriveViewSetup.exe) 
 
 ---
 
