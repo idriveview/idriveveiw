@@ -3,7 +3,13 @@
 
 > Удобная программа для работы с облачными хранилищами как с обычной папкой на компьютере.
 
-![IDriveView Logo](https://idriveview.site)  
+![IDriveView Logo](https://idriveview.site/logo.png)
+
+# IDriveView
+
+> Удобная программа для работы с облачными хранилищами
+
+🌐 [Официальный сайт поддержки IDriveView](https://idriveview.site)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ---
