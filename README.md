@@ -10,9 +10,6 @@
 
 🌐 [Официальный сайт поддержки IDriveView](https://idriveview.site)
 
-![IDriveView Version](https://img.shields.io/badge/version-1.0-blue.svg)  
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
 ---
 
 ## 📹 Обзор программы
@@ -66,6 +63,13 @@
 `mp3`
 
 ---
+## ✅ Совместимость
+
+Программа тестировалась на:
+
+- Windows 7, 8.1, 10, 11
+
+---
 
 ## ⚠️ Примечания
 
@@ -99,14 +103,6 @@
 - 📧 Email: [idriveview@gmail.com](mailto:idriveview@gmail.com)  
 - 🌐 GitHub: https://github.com/your-username/idriveview  
 - 🧾 Лицензия: [MIT](https://opensource.org/licenses/MIT)
-
----
-
-## ✅ Совместимость
-
-Программа тестировалась на:
-
-- Windows 7, 8.1, 10, 11
 
 ---
 
