@@ -101,7 +101,7 @@
 ## 📬 Контакты
 
 - 📧 Email: [idriveview@gmail.com](mailto:idriveview@gmail.com)  
-- 🌐 GitHub: https://github.com/your-username/idriveview  
+- 🌐 Сайт поддержки: (https://idriveview.site)
 - 🧾 Лицензия: [MIT](https://opensource.org/licenses/MIT)
 
 ---
