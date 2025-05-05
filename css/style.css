@@ -1,0 +1,43 @@
+.brand-logo {
+    left: 150px;
+  }
+.video{
+    padding: 0px 100px;
+}
+h6{
+    text-indent: 20px; /* Отступ первой строки */
+    font-size: 1.3rem; 
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+#nav-mobile{
+    margin-right: 50px;
+}
+.video-site {
+    display: flex;
+    justify-content: center;
+}
+
+/* Стилизация иконки: Скопировать в буфер обмена */
+.copy-btn {
+    transition: all 0.2s ease;
+    display: inline-block; /* Для корректного отображения рядом с текстом */
+    vertical-align: middle; /* Выравнивание по вертикали */
+    margin-left: 10px; /* Небольшой отступ от адреса */
+    margin-top: -8px;
+}
+
+.copy-btn:hover .copy-icon {
+    color: #26a69a !important; /* Teal цвет, как у иконки wallet_travel */
+    transform: scale(1.2);
+}
+
+.copy-icon {
+    font-size: 1.2rem !important; /* Меньший размер иконки */
+    color: #bdbdbd !important; /* Серый цвет по умолчанию */
+    vertical-align: middle;
+}
+
+.copy-btn:active .copy-icon {
+    color: #1d7d74 !important; /* Более темный teal при клике */
+}
