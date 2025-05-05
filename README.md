@@ -1,5 +1,10 @@
 
-<img src="assets/cloud_40539.png" alt="IDriveView Logo" width="40"/>  **IDriveView**
+<table>
+  <tr>
+    <td><img src="assets/cloud_40539.png" alt="IDriveView Logo" width="40"/></td>
+    <td><h1>IDriveView</h1></td>
+  </tr>
+</table>
 
 > Удобная программа для работы с облачными хранилищами как с обычной папкой на компьютере.
 
