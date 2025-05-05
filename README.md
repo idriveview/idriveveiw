@@ -1,7 +1,7 @@
 
 <p align="left">
-  <img src="assets/cloud_40539.png" alt="IDriveView Logo" width="40" style="vertical-align: middle; margin-right: 10px;">
-  <span style="font-size: 52px; font-weight: bold; vertical-align: middle;">IDriveView</span>
+  <img src="assets/cloud_40539.png" alt="IDriveView Logo" width="40" style="display:inline-block; vertical-align:middle;">
+  <span>&nbsp;&nbsp;<strong>IDriveView</strong></span>
 </p>
 
 > Удобная программа для работы с облачными хранилищами как с обычной папкой на компьютере.
