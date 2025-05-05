@@ -11,7 +11,7 @@
 🌐 [Официальный сайт поддержки IDriveView](https://idriveview.site)
 
 **Скачать релиз:**  
--
+
   С установкой .Net 8.0 на ПК
 - [Скачать IDriveViewSetup.exe](https://github.com/idriveview/idriveveiw/releases/download/untagged-aa55b32759eb572892c0/IDriveViewSetup.exe)  
   Простая установка
