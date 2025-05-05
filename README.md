@@ -1,5 +1,5 @@
 
-<table>
+<table style="border: none;">
   <tr>
     <td><img src="assets/cloud_40539.png" alt="IDriveView Logo" width="40"/></td>
     <td><h1>IDriveView</h1></td>
