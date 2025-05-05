@@ -21,7 +21,7 @@
 
 ## 🎥 Поддержка на YouTube
 
-- 📽️ [Обзор программы (короткое видео)](https://www.youtube.com/shorts/JSrqgq4Eu3o)
+- 📽️ [Обзор программы](https://www.youtube.com/shorts/JSrqgq4Eu3o)
 - 🔑 [Регистрация и получение ключей](https://www.youtube.com/shorts/W19zTtwBfRA)
 
 ---
