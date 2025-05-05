@@ -1,5 +1,7 @@
 
-![IDriveView Logo](assets/cloud_40539.png) # IDriveView
+![IDriveView Logo](assets/cloud_40539.png) IDriveView
+
+# IDriveView
 
 > Удобная программа для работы с облачными хранилищами как с обычной папкой на компьютере.
 
