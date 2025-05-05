@@ -11,7 +11,7 @@
 🌐 [Официальный сайт поддержки IDriveView](https://idriveview.site)
 
 **Скачать релиз:**  
-[Скачать example.zip](https://github.com/idriveveiw/idriveveiw.site/releases/download/v1.0.0/IDriveViewSetup.exe)
+[Скачать IDriveViewSetup.exe](https://github.com/idriveview/idriveveiw/releases/download/untagged-aa55b32759eb572892c0/IDriveViewSetup.exe)
 
 ---
 
